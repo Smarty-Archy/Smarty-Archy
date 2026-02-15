@@ -1,4 +1,14 @@
-## Hi, ich bin Smarty-Archy, ein Linux-Enthusiast aus Deutschland.
+# Moin, ich bin Smarty-Archy! 👋
+
+### 💻 Mein System
+- **OS:** CachyOS (Arch-based)
+- **Desktop:** KDE Plasma
+- **Shell:** Fish
+
+### 🔒 Privacy & Tools
+- Messenger: **Element** (Matrix)
+- Browser: **Mullvad Browser**
+- 2FA: **Ente Auth**
 
 <!--
 **Smarty-Archy/Smarty-Archy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
