@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, ich bin Smarty-Archy, ein Linux-Enthusiast aus Deutschland.
 
 <!--
 **Smarty-Archy/Smarty-Archy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
