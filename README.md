@@ -1,6 +1,8 @@
-# Moin, ich bin Smarty-Archy! 👋
+# Hi, I'm Smarty-Archy! 👋
 
-### 💻 Mein System
+I am a Linux enthusiast from Germany, focused on building a secure and efficient digital workflow.
+
+### 💻 My System
 - **OS:** CachyOS (Arch-based)
 - **Desktop:** KDE Plasma
 - **Shell:** Fish
