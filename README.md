@@ -4,13 +4,13 @@ I am a Linux enthusiast from Germany, focused on building a secure and efficient
 
 ### 💻 My System
 - **OS:** CachyOS (Arch-based)
-- **Desktop:** KDE Plasma
+- **Desktop:** KDE Plasma, COSMIC
 - **Shell:** Fish
 
 ### 🔒 Privacy & Tools
 - Messenger: **Element** (Matrix)
 - Browser: **Mullvad Browser**
-- 2FA: **Ente Auth**
+
 
 <!--
 **Smarty-Archy/Smarty-Archy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
