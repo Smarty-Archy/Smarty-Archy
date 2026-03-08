@@ -1,28 +1,40 @@
 # Hi, I'm Smarty-Archy! 👋
 
-I am a Linux enthusiast from Germany, focused on building a secure and efficient digital workflow.
+A Linux enthusiast from Germany, passionate about building a secure, efficient, and well-crafted digital workflow.
+
+---
 
 ### 💻 My System
-- **OS:** CachyOS (Arch-based)
-- **Desktop:** KDE Plasma, COSMIC
-- **Shell:** Fish
+
+| Component | Details |
+|-----------|---------|
+| **OS** | CachyOS (Arch-based, rolling) |
+| **Desktop** | KDE Plasma · COSMIC |
+| **Shell** | Fish |
+
+---
+
+### 🛠️ Skills & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Fish Shell](https://img.shields.io/badge/Fish_Shell-4AAE46?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
 
 ### 🔒 Privacy & Tools
+
 - Messenger: **Element** (Matrix)
 - Browser: **Mullvad Browser**
 
+---
 
-<!--
-**Smarty-Archy/Smarty-Archy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Smarty-Archy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smarty-Archy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
