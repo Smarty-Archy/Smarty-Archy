@@ -18,9 +18,12 @@ A Linux enthusiast from Germany, passionate about building a secure, efficient, 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Fish Shell](https://img.shields.io/badge/Fish_Shell-4AAE46?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub CLI](https://img.shields.io/badge/GitHub_CLI-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
