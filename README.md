@@ -1,6 +1,8 @@
 # Hey, ich bin Smarty-Archy! 🚀
 
-Ein Linux-Poweruser aus Deutschland mit einer Leidenschaft für Sicherheit, Transparenz und maximale Performance. Ich liebe es, digitale Workflows zu optimieren und die Grenzen von KI-gestützter Entwicklung im Terminal auszuloten.
+🇩🇪 Ein Linux-Poweruser aus Deutschland mit einer Leidenschaft für Sicherheit, Transparenz und maximale Performance. Ich liebe es, digitale Workflows zu optimieren und die Grenzen von KI-gestützter Entwicklung im Terminal auszuloten.
+
+🇬🇧 A Linux power user from Germany with a passion for security, transparency, and maximum performance. I love optimizing digital workflows and exploring the boundaries of AI-powered development in the terminal.
 
 ---
 
