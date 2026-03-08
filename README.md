@@ -24,10 +24,12 @@ A Linux enthusiast from Germany, passionate about building a secure, efficient, 
 
 ---
 
-### 🔒 Privacy & Tools
+### 🔒 Tools & Workflow
 
-- Messenger: **Element** (Matrix)
-- Browser: **Mullvad Browser**
+- Messenger: **Element, Cinny & Signal**
+- Editor: **Claude Code** (CLI Agent)
+- Password Manager: **Proton Pass**
+- DNS: **Quad9** (Secure DNS)
 
 ---
 
