@@ -1,6 +1,6 @@
-# Hi, I'm Smarty-Archy! 👋
+# Hey, ich bin Smarty-Archy! 🚀
 
-A Linux enthusiast from Germany, passionate about building a secure, efficient, and well-crafted digital workflow.
+Ein Linux-Poweruser aus Deutschland mit einer Leidenschaft für Sicherheit, Transparenz und maximale Performance. Ich liebe es, digitale Workflows zu optimieren und die Grenzen von KI-gestützter Entwicklung im Terminal auszuloten.
 
 ---
 
@@ -9,12 +9,14 @@ A Linux enthusiast from Germany, passionate about building a secure, efficient, 
 | Component | Details |
 |-----------|---------|
 | **OS** | CachyOS (Arch-based, rolling) |
+| **Kernel** | 6.19.6-2-cachyos |
 | **Desktop** | KDE Plasma · COSMIC |
+| **Display Server** | Wayland |
 | **Shell** | Fish |
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -27,7 +29,7 @@ A Linux enthusiast from Germany, passionate about building a secure, efficient, 
 
 ---
 
-### 🔒 Tools & Workflow
+### 🔒 Daily Setup
 
 - Messenger: **Element, Cinny & Signal**
 - Editor: **Claude Code** (CLI Agent)
